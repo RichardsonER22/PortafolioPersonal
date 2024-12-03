@@ -11,6 +11,7 @@ urlsToCache = [
     '/assets/fut2.jpg',
     '/assets/futbol.png',
     '/assets/nivel1.png',
+    'assets/maqueta.jpg',
     './css/styles.css'
 ];
 
