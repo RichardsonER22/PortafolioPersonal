@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "V1_cache_PWA_IEVND";
+const CACHE_NAME = "Pwa_Richard";
 
 urlsToCache = [
     './',
